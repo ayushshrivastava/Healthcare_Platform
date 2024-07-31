@@ -1,4 +1,3 @@
-[![Healthcare Platform](https://github.com/masterSoumojit007/healthcare_carepulse/blob/main/public/assets/images/banner.png)](https://healthcare-carepulse.vercel.app/)
 
 ## 📋 Table of Contents
 - [🤖 Introduction](#-introduction)
@@ -11,8 +10,6 @@
 Welcome to the Healthcare Platform project, a modern web application designed to streamline patient registration, appointment scheduling, and medical records management. This platform is developed to enhance the efficiency and user experience in healthcare settings by leveraging modern technologies and best practices in software development.
 
 The Healthcare Platform aims to bridge the gap between patients and healthcare providers, offering a seamless and intuitive interface for managing appointments, accessing medical records, and ensuring timely communication through SMS notifications.
-
-👉 [Live Demo Here](https://healthcare-carepulse.vercel.app/) 🌐
 
 ## ⚙️ Tech Stack
 The Healthcare Platform is built using the following technologies:
@@ -46,10 +43,5 @@ The Healthcare Platform is built using the following technologies:
 
 Contributions are welcome! Whether you find a bug, have a feature request, or want to improve the documentation, please open an issue or submit a pull request. Your contributions help make the Healthcare Platform better for everyone.
 
-## 🚀 Made By
-
-This project was created with ❤️ by [Soumojit Banerjee](https://github.com/masterSoumojit007), with contributions from the open-source community. If you have any questions or suggestions, feel free to reach out!
-
----
 
 Thank you for exploring our Healthcare Platform project! We are committed to delivering a robust and user-friendly solution for healthcare management.
